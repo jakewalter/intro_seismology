@@ -1,1 +1,3 @@
-# intro_seismology
+# Introduction to Seismology - GPHY 4553
+
+
