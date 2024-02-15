@@ -6,4 +6,4 @@ Class exercise 2/1 on Fourier/time series analysis: [![Open In Colab](https://co
 
 Class exercise 2/8 on basic earthquake download and waves: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/edmond_earthquake.ipynb)
 
-Class exercise 2/15 on a basic finite difference approach to model earthquake waves: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/wave_equation_exercise.ipynb)
+Class exercise 2/15 on a basic finite difference approach to model earthquake waves (and part of Assignment 3): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/wave_equation_exercise.ipynb)
