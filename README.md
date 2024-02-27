@@ -8,5 +8,6 @@ Class exercise 2/8 on basic earthquake download and waves: [![Open In Colab](htt
 
 Class exercise 2/15 on a basic finite difference approach to model earthquake waves (and part of Assignment 3): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/wave_equation_finite_difference.ipynb)
 
-
 Class exercise 2/22 on ray tracing (and part of Assignment 4): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/ray_tracing.ipynb)
+
+Class exercise 2/27 on simple inversion: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/linear_inversion.ipynb)
