@@ -19,3 +19,7 @@ Class exercise 3/5 on inversion applied to tomography: [![Open In Colab](https:/
 Class exercise 3/28 on reflection coefficients and attenuation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/reflection_coefficient.ipynb)
 
 Class exercise 4/11 on earthquake moment and catalogs: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/earthquake_moment.ipynb)
+
+Final Project Part A: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_A.ipynb)
+
+Final Project Part B: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_B.ipynb)
