@@ -1,5 +1,7 @@
 # Introduction to Seismology - GPHY 4553
 
+This was taught at University of Oklahoma in Spring 2024 and more or less follows Shearer's Introduction to Seismology
+
 Class exercise 1/25 on Python basics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/class_python_basics.ipynb)
 
 Class exercise 2/1 on Fourier/time series analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/fourier_time_series.ipynb)
