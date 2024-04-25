@@ -23,3 +23,5 @@ Class exercise 4/11 on earthquake moment and catalogs: [![Open In Colab](https:/
 Final Project Part A: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_A.ipynb)
 
 Final Project Part B: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_B.ipynb)
+
+Final Project Part C: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_C.ipynb)
