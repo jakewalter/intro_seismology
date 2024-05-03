@@ -16,7 +16,7 @@ Class exercise 2/27 on simple inversion: [![Open In Colab](https://colab.researc
 
 Class exercise 2/29 on inversion applied to tomography: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/tomography.ipynb)
 
-Class exercise 3/5 on inversion applied to tomography: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/earthquake_location.ipynb)
+Class exercise 3/5 on inversion applied to the earthquake location problem: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/earthquake_location.ipynb)
 
 Class exercise 3/28 on reflection coefficients and attenuation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/reflection_coefficient.ipynb)
 
