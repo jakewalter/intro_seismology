@@ -2,7 +2,7 @@
 
 This is taught at University of Oklahoma in Spring 2026 (and Spring 2024) and more or less follows Shearer's Introduction to Seismology
 
-**  Lectures**
+**Lectures**
 | # | Date (approx.) | Content | Assignment |
 |---|---------------|---------|------------|
 | 1 | T Jan 20 | Course overview, wide world of seismology | |
