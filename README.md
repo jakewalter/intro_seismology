@@ -40,4 +40,8 @@ This is taught at University of Oklahoma in Spring 2026 (and Spring 2024) and mo
 | **Final Exam** | M May 11, 1:30–3:30 PM | **Final Exam** | |
 
 
+
+
 Class exercise 1/27 on Python basics: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/class_python_basics.ipynb)
+
+Class exercise 2/3 on Fourier/time series analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/fourier_time_series.ipynb)
