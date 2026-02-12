@@ -11,10 +11,10 @@ This is taught at University of Oklahoma in Spring 2026 (and Spring 2024) and mo
 | 4 | Th Jan 29 | Waves: distance, motion, phase | #1 due / #2 assigned |
 | 5 | T Feb 3 | Wave equation, P and S phases | |
 | 6 | Th Feb 5 | Computer: Wave propagation, Fourier transforms | #2 due |
-| 7 | T Feb 10 | Seismic waves and velocity models | #3 assigned |
-| 8 | Th Feb 12 | Ray tracing in 1D | |
-| 9 | T Feb 17 | Ray tracing, velocity models | #3 due |
-|10 | Th Feb 19 | Inversion | #4 assigned |
+| 7 | T Feb 10 | Seismic waves and velocity models | |
+| 8 | Th Feb 12 | Finite difference method for wave equation | #3 assigned |
+| 9 | T Feb 17 | Ray tracing in 1D, velocity models | |
+|10 | Th Feb 19 | Inversion | #3 due, #4 assigned |
 |11 | T Feb 24 | Velocity model inversion | |
 |12 | Th Feb 26 | Tomography inversion in 3D | #4 due |
 |13 | T Feb 3 | Computer: Model resolution and misfit | |
@@ -47,3 +47,5 @@ Class exercise 1/27 on Python basics: [![Open In Colab](https://colab.research.g
 Class exercise 2/3 on Fourier/time series analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/fourier_time_series.ipynb)
 
 Class exercise 2/10 on downloading seismic data: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/prague_earthquake.ipynb)
+
+Class exercise 2/12 on a basic finite difference approach to model earthquake waves (and part of Assignment 3): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/wave_equation_finite_difference.ipynb)
