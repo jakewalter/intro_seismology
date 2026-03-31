@@ -26,9 +26,9 @@ This is taught at University of Oklahoma in Spring 2026 (and Spring 2024) and mo
 |18 | T Mar 17 – Spring Break | No class | |
 |19 | Th Mar 19 – Spring Break | No class | |
 |20 | T Mar 24 | Wave energy and amplitudes | |
-|21 | Th Mar 26 | Reflection, transmission, attenuation | #6 assigned |
-|22 | T Mar 31 | Green’s functions | |
-|23 | Th Apr 2 | Moment tensors | #6 due / #7 assigned |
+|21 | Th Mar 26 | Reflection, transmission, attenuation | |
+|22 | T Mar 31 | Attenuation | #6 assigned |
+|23 | Th Apr 2 | Green’s functions and Moment tensors | #6 due / #7 assigned |
 |24 | T Apr 7 | Faulting type from seismograms | |
 |25 | Th Apr 9 | Spectral analysis, stress drop | |
 |26 | T Apr 14 | Computer: Earthquake observations | #7 due / #8 assigned |
