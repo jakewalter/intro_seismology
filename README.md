@@ -26,16 +26,16 @@ This is taught at University of Oklahoma in Spring 2026 (and Spring 2024) and mo
 |18 | T Mar 17 – Spring Break | No class | |
 |19 | Th Mar 19 – Spring Break | No class | |
 |20 | T Mar 24 | Wave energy and amplitudes | |
-|21 | Th Mar 26 | Reflection, transmission, attenuation | #6 assigned |
-|22 | T Mar 31 | Green’s functions | |
-|23 | Th Apr 2 | Moment tensors | #6 due / #7 assigned |
-|24 | T Apr 7 | Faulting type from seismograms | |
+|21 | Th Mar 26 | Reflection, transmission, attenuation | |
+|22 | T Mar 31 | Attenuation | #6 assigned |
+|23 | Th Apr 2 | Green’s functions and Moment tensors |  |
+|24 | T Apr 7 | Faulting type from seismograms | #6 due / #7 assigned |
 |25 | Th Apr 9 | Spectral analysis, stress drop | |
-|26 | T Apr 14 | Computer: Earthquake observations | #7 due / #8 assigned |
+|26 | T Apr 14 | Computer: Earthquake observations | #7 due |
 |27 | Th Apr 16 | Surface waves, large earthquakes | |
-|28 | T Apr 21 | Earthquake physics, induced seismicity | #8 due |
-|29 | Th Apr 23 | Computer: Final project dataset and skills | Final project available, due May 2 |
-|30 | T Apr 28 | Computer: Final project continued (Zoom) | |
+|28 | T Apr 21 | Earthquake physics, induced seismicity | Final project available, due May 2 |
+|29 | Th Apr 23 | Computer: Final project dataset and skills | |
+|30 | T Apr 28 | Computer: Final project continued | |
 |31 | Th Apr 30 | Exam preparation | |
 | **Final Exam** | M May 11, 1:30–3:30 PM | **Final Exam** | |
 
