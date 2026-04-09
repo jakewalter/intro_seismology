@@ -60,3 +60,5 @@ Class exercise 3/5 on inversion applied to the earthquake location problem: [![O
 
 Class exercise 3/26 on reflection coefficients and attenuation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/reflection_coefficient.ipynb)
 
+Class exercise 4/14 on earthquake moment and catalogs: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/earthquake_moment.ipynb)
+
