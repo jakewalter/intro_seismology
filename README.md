@@ -33,7 +33,7 @@ This is taught at University of Oklahoma in Spring 2026 (and Spring 2024) and mo
 |25 | Th Apr 9 | Spectral analysis, stress drop | |
 |26 | T Apr 14 | Computer: Earthquake observations | #7 due |
 |27 | Th Apr 16 | Surface waves, large earthquakes | |
-|28 | T Apr 21 | Earthquake physics, induced seismicity | Final project available, due May 2 |
+|28 | T Apr 21 | Earthquake physics, induced seismicity | Final project available, due April 30 |
 |29 | Th Apr 23 | Computer: Final project dataset and skills | |
 |30 | T Apr 28 | Computer: Final project continued | |
 |31 | Th Apr 30 | Exam preparation | |
@@ -62,3 +62,8 @@ Class exercise 3/26 on reflection coefficients and attenuation: [![Open In Colab
 
 Class exercise 4/14 on earthquake moment and catalogs: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/earthquake_moment.ipynb)
 
+Final Project Part A: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_A.ipynb)
+
+Final Project Part B: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_B.ipynb)
+
+Final Project Part C: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakewalter/intro_seismology/blob/main/final_project_C.ipynb)
